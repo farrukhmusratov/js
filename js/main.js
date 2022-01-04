@@ -1,1 +1,0 @@
-// mening birinhi js codim o'chirildi
